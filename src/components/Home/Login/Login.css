@@ -1,0 +1,15 @@
+.login-section{
+  background-image: url("/src/components/Images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 600px;
+  margin:0;
+  width: 100%;
+}
+.login-form{
+  padding-top: 100px;
+}
+
+input, select{
+  box-shadow: 5px 5px 10px #0066B1;
+}
